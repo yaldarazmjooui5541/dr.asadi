@@ -21,6 +21,7 @@ exercise_6.py → گراف + BFS/DFS
 exercise_7.py → اولویت‌بندی و اجرای الگوریتم‌ها
 
 
+
 ---
 
 ## 🚀 اجرای تمرین‌ها
@@ -28,8 +29,11 @@ exercise_7.py → اولویت‌بندی و اجرای الگوریتم‌ها
 برای اجرا کافیه:
 
 ```bash
+git clone https://github.com/yaldarazmjooui5541/dr.asadi.git
+cd dr.asadi
 
-python exercise_1.py
+---
+
 
 | ساختار داده | درج      | حذف      | جستجو    |
 | ----------- | -------- | -------- | -------- |
