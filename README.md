@@ -13,10 +13,15 @@
 تمرین‌ها در 7 فایل پایتون قرار دارند:
 
 exercise_1.py → لیست‌ها و حلقه‌ها
+
 exercise_2.py → پشته و صف
+
 exercise_3.py → درخت جستجوی دودویی (BST)
+
 exercise_4.py → درخت متعادل (AVL)
+
 exercise_5.py → هیپ (Heap)
+
 exercise_6.py → گراف + BFS/DFS
 exercise_7.py → اولویت‌بندی و اجرای الگوریتم‌ها
 
